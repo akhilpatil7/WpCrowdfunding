@@ -1,0 +1,64 @@
+@media (min-width: 992px){
+.wpneo-campaign-single-left-info{
+width:58.3% !important;
+}
+} 
+
+@media (min-width: 992px){
+.wpneo-campaign-summary{
+width:41.6% !important;
+padding-left : 25px;
+}
+}
+
+.wpneo-campaign-title{
+font-weight:bold;
+}
+
+.wpneo-campaign-creator-info-wrapper{
+margin-top: 0px !important;
+padding-top:7px;
+margin-bottom: 0px !important;
+
+}
+
+div.days_campaigns{
+float:right !important;
+}
+.days_campaigns_date{
+font-weight:bold;
+font-size:18px;
+}
+
+.before_raise{
+font-weight:600;
+font-size:60px;
+padding-right:4px;
+color:#6fc13c;
+}
+
+.campaign_goal{
+font-weight:bold;
+}
+
+.wpneo_donate_button{
+background : #e1a54c;
+color:#fff;
+width:100%;
+margin-left:0px;
+}
+
+.wpneo_donate_button:hover{
+background : #6fc13c;
+}
+.wpneo_donate_amount_field{
+min-width:100%;
+min-height:50px;
+font-size:30px;
+
+}
+
+.wpneo-campaign-summary-inner{
+float: center;
+padding-right:50px;
+padding-left:20px;}
